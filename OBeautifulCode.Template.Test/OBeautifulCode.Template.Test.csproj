@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0F25254C-160C-49BC-BC51-FD9DCA4D8652}</ProjectGuid>
+    <ProjectGuid>{A0952AF9-355C-480B-B420-3B8EA20D5B4A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>OBeautifulCode.Template.Test</RootNamespace>
@@ -88,7 +88,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\OBeautifulCode.Template\OBeautifulCode.Template.csproj">
-      <Project>{d8e4eb63-ba31-4f7b-9b0e-aa9a046a6b85}</Project>
+      <Project>{4833F24A-736A-4F79-B84D-D64805F80B8E}</Project>
       <Name>OBeautifulCode.Template</Name>
     </ProjectReference>
   </ItemGroup>
