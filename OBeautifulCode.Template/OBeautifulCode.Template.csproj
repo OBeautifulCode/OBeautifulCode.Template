@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="OBeautifulCode.Template.ClassName.recipe-nuspec" />
+    <None Include="OBeautifulCode.Template.nuspec" />
     <None Include="OBeautifulCode.Template.template-nuspec" />
     <None Include="packages.config" />
     <AdditionalFiles Include="..\common\stylecop.json">
